@@ -1,0 +1,16 @@
+h1 {
+    color: aqua;  
+    text-decoration: line-through;
+}
+body {
+    background-color: rgb(60, 160, 183);
+    color: rgb(54, 214, 26);
+}   
+button {
+    background-color: rgb(54, 214, 26);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
